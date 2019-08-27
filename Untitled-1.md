@@ -19,6 +19,7 @@ block
 >defgh  
 >ijk  
 >lmn  
-opqrstuvw  
-xyz\
+opqrstuvw\n  
+xyz
+
 end
