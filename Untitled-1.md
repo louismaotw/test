@@ -20,6 +20,5 @@ block
 >ijk  
 >lmn  
 opqrstuvw  
-xyz
-
+xyz\
 end
