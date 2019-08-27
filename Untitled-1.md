@@ -4,7 +4,7 @@ hello
 Sawadika
 ******************
 Never put off till *tomorrow*
-what you can do today.
+what you can do _today_.
 - car
 - vehicle
 - plan
