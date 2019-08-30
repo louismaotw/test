@@ -2,6 +2,8 @@
 Ni Hao
 ## Korea
 Anyeon Haseyo
+### Japan
+konichiwa
 ******************
 Never put off till ***tomorrow***  
 what you can do **today**.
