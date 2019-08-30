@@ -1,6 +1,6 @@
 # Taiwan
 Ni Hao
-## Korea
+### Hankuk
 Anyeon Haseyo
 ### Japan
 konichiwa
