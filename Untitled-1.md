@@ -1,7 +1,7 @@
 # Taiwan
 Ni Hao
-## Thailand
-Sawadika
+## Korea
+Anyeon Haseyo
 ******************
 Never put off till ***tomorrow***  
 what you can do **today**.
